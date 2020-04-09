@@ -1,0 +1,62 @@
+body{
+  text-align: center;
+  background-color:#e4f9f5;
+}
+.Fashion{
+  background-color:#005082;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+.heading{
+  color: red;
+  text-align: center;
+  font-size: 500%;
+  margin-top: 50px;
+  font-family:serif;
+}
+.login{
+    background-color: #b80d57;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 20px;
+    font-size: 20px;
+}
+.cart{
+  background-color: yellow;
+  margin-left: 1000px;
+  padding: 20px;
+    width: 121px;
+    font-size: 20px;
+
+}
+.menswear{
+  margin-left: 200px;
+
+  background-image:url("https://3.imimg.com/data3/ND/LQ/MY-9211778/mens-wear-500x500.jpg");
+  width: 1000px;
+  height: 250px;
+  background-color: #b2ebf2;
+  margin-bottom: 100px;
+}
+.womenswear{
+  margin-left: 200px;
+  background-image:url("https://www.contemporist.com/wp-content/uploads/2017/01/modern-womens-fashion-160117-356-01-800x410.jpg");
+  width: 1000px;
+  height: 250px;
+  margin-bottom: 100px;
+}
+.kidswear{
+  margin-left: 200px;
+  background-image:url("https://i.pinimg.com/736x/99/b6/33/99b633eb41f0ac08aba658d8c9ec2965.jpg");
+  width: 1000px;
+  height: 250px;
+  margin-bottom: 100px;
+}
+
+.details{
+  background-color: #ffaaa5;
+}
